@@ -2,3 +2,4 @@ pandas
 pdfplumber
 streamlit
 streamlit-option-menu
+gTTS
