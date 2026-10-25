@@ -1,0 +1,15 @@
+[theme]
+# Warna tombol dan elemen utama (Biru Maritim elegan)
+primaryColor = "#2563EB"
+
+# Warna latar belakang utama aplikasi (Putih bersih)
+backgroundColor = "#FFFFFF"
+
+# Warna latar belakang sidebar (Abu-abu kebiruan sangat muda)
+secondaryBackgroundColor = "#F8FAFC"
+
+# Warna teks utama (Biru Dongker gelap agar profesional dan mudah dibaca)
+textColor = "#0F172A"
+
+# Jenis font modern
+font = "sans serif"
